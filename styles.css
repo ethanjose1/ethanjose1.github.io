@@ -128,3 +128,15 @@ footer {
     margin-bottom: 20px;
     font-size: 1.1em;
 }
+
+
+/* resume page styles */
+
+.resume {
+    text-align: center;
+    margin: 20px;
+}
+
+.resume h2 {
+    margin-bottom: 20px;
+}
