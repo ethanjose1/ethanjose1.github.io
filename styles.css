@@ -103,3 +103,28 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+
+/* About Page Specific Styles */
+
+.about-me {
+    text-align: center;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 250px; /* Adjust size as needed */
+    height: 250px; /* Adjust size as needed */
+    object-fit: cover;
+    object-position: center top;
+    margin-bottom: 20px;
+}
+
+.about-me h2 {
+    margin-bottom: 10px;
+}
+
+.about-me p {
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
